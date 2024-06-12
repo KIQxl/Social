@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQAQ1GJy1zwG1fqpE1g/xmlCfOj0FHWb45ttbUBV+MZ7CnffeNyUytIVR1s58JornrPo/wyxsGZkxq6MvvhJsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caiaque\\Desktop\\projects\\Social\\Social.Shared\\Social.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caiaque\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

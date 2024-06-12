@@ -1,0 +1,12 @@
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\bin\Debug\net7.0\Social.Shared.deps.json
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\bin\Debug\net7.0\Social.Shared.dll
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\bin\Debug\net7.0\Social.Shared.pdb
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.csproj.AssemblyReference.cache
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.AssemblyInfoInputs.cache
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.AssemblyInfo.cs
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.dll
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\refint\Social.Shared.dll
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\Social.Shared.pdb
+C:\Users\Caiaque\Desktop\projects\Social\Social.Shared\obj\Debug\net7.0\ref\Social.Shared.dll
