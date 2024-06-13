@@ -5,7 +5,7 @@ namespace Social.Domain.Repositories
 {
     public interface IUserRepository
     {
-        public Task<UserResult> Save(User user);
+        public Task Save(User user);
         public Task<bool> EmailExists(string email);
     }
 }
